@@ -1,0 +1,5 @@
+{
+  "name": "FakeTube Maintenance",
+  "description": "A maintenance page for FakeTube indicating it is currently out of service.",
+  "requestFramePermissions": []
+}
